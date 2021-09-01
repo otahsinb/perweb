@@ -1,7 +1,7 @@
 ---
-title: The Dojo Coffee House
+title: Speedy research, practical design and implementation of well-defined issues.
 stack: HTML & CSS
-slug: the-dojo-coffee-house
+slug: speedy-research-practical-design-and-implementation-of-well-defined-issues
 date: 2021-01-01T00:00:00+00:00
 thumb: ../images/thumbs/coffee.png
 featuredImg: ../images/featured/coffee-banner.png

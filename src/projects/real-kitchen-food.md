@@ -1,7 +1,7 @@
 ---
-title: Real Kitchen Food
-stack: Gatsby & Shopify
-slug: real-kitchen-food
+title: Computational Implementation
+stack: Algorithm & Program ###baslik alti kisa aciklama
+slug: real-kitchen-food ###html bilgisi
 date: 2021-05-07T00:00:00+00:00
 thumb: ../images/thumbs/food.png
 featuredImg: ../images/featured/food-banner.png

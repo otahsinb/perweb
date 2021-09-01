@@ -1,7 +1,7 @@
 ---
-title: Retro Gaming Zone
-stack: Svelte & Firebase
-slug: retro-gaming-zone
+title: Scientific Paper Summary
+stack: IEEE & Paper
+slug: scientific-paper-summary
 date: 2021-01-21T00:00:00+00:00
 thumb: ../images/thumbs/gaming.png
 featuredImg: ../images/featured/gaming-banner.png

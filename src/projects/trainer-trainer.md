@@ -1,7 +1,7 @@
 ---
-title: Trainer Trainer
-stack: Gatsby & Shopify
-slug: trainer-trainer
+title: Cross Platform Code Testing
+stack: MSW & Linux && C++
+slug: cross-platform-code-testing
 date: 2021-03-02T00:00:00+00:00
 thumb: ../images/thumbs/shoes.png
 featuredImg: ../images/featured/shoes-banner.png

@@ -1,7 +1,7 @@
 ---
-title: Skateboards2Go
-stack: Vue & Firebase
-slug: skateboards-to-go
+title: Desktop Application
+stack: Program & Code
+slug: desktop-application
 date: 2021-03-11T00:00:00+00:00
 thumb: ../images/thumbs/skate.png
 featuredImg: ../images/featured/skate-banner.png

@@ -1,7 +1,7 @@
 ---
-title: The Drum Stop
-stack: Next.js
-slug: the-drum-stop
+title: Git CI/CD Support
+stack: Gitlab & Github
+slug: git-CI-CD-support
 date: 2021-01-21T00:00:00+00:00
 thumb: ../images/thumbs/drums.png
 featuredImg: ../images/featured/drums-banner.png
