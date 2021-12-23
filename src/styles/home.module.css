@@ -3,9 +3,10 @@
     grid-template-columns: 1fr 1fr;
     grid-gap: 40px;
     align-items: center;
+    margin-left: 50px;
   }
-  .header h2 {
-    font-size: 4em;
+.header h2 {
+  font-size: 4em;
   }
   .header h3 {
     font-size: 3em;

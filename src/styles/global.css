@@ -32,6 +32,8 @@ nav {
 nav .links {
   display: inline-block;
   text-align: right;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 nav a {
   display: inline-block;
