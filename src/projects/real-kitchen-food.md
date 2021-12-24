@@ -7,8 +7,15 @@ thumb: ../images/thumbs/food.png
 featuredImg: ../images/featured/food-banner.png
 ---
 
->>Lisansüstü çalışmalarınızda analiz ve test işlemleri için temel araçlara mı ihtiyacınız var?\
->>Günlük hayatta sıklıkla yaptığınız hesaplamalı işlerinize özel bir yazılıma ihtiyacınız var mı?\
->>Hesaplamalı işlemler için Windows ve Linux ortamlarında çalışabilir basit masaüstü uygulama ister misiniz?\
->>İstediğiniz amaç, kapsam ve içerik ile geliştirme yapabiliriz.
+*   Code development activities with quick research followed by a practical design.
+*   Problem-specific academic and scientific research.
+*   Software development with good design and minimal error cases.
+*   Combining modern technologies and methods.
+*   Effective and systematic testing activities.
+*   Cost effective solutions.
+*   A quality approach that considers time, scope and cost.
+*   Effective communication and documentation.
+*   Realization of up-to-date technology on cross platforms.
+*   Cost-cutting solutions in autonomous testing environments.
+*   Technical support during and after development.
 
