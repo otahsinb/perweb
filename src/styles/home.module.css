@@ -13,6 +13,9 @@
     font-weight: 400;
     margin-bottom: 20px;
   }
+  ul.b {
+  list-style-type: square;
+}
   .btn {
     display: inline-block;
     background: #2e8559;
